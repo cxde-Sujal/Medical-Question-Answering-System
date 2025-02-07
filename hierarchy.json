@@ -1,0 +1,29 @@
+{
+  "root": [
+    {
+      "id": "chapter_0",
+      "sections": [
+        {
+          "id": "section_0_0",
+          "content": [
+            "Chapter 1"
+          ]
+        },
+        {
+          "id": "section_0_1",
+          "content": [
+            "1.1",
+            "Paragraph 1..."
+          ]
+        },
+        {
+          "id": "section_0_2",
+          "content": [
+            "1.2",
+            "Paragraph 2..."
+          ]
+        }
+      ]
+    }
+  ]
+}
